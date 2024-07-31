@@ -1,4 +1,5 @@
 # Logs to extract from server
+# System, Security, Application, Setup
 $logArray = @("System","Security","Application", "Setup")
 
 # Grabs the server name to append to the log file extraction
