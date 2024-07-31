@@ -1,0 +1,33 @@
+# macOS system files
+.DS_Store
+
+# macOS folder metadata
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that store Spotlight metadata
+.Spotlight-V100
+.Trashes
+
+# Files that store Time Machine backups
+.TimeMachineBackup
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# exclude log files
+*.log
+
+# exclude secret files
+*.key
+
+# exclude csv files
+*.csv
+
+#exclude .env files
+.env
